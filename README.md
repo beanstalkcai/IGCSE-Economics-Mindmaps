@@ -1,1 +1,0 @@
-# IGCSE-Economics-Mindmaps
