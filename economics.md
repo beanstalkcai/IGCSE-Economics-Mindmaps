@@ -1,8 +1,11 @@
 # IGCSE-Economics-Mindmaps
-
-      mindmap
-  root[Economics]
-    ::icon(fa fa-microscope)
-    Paper1 Macroeconomics
-      Economic foundations
-     
+Do not touch ECONOMICS!!!!!!!!!!!!!!!!!!!!!!!
+```mermaid
+flowchart TD
+    A["just kidding"] --> B["just kidding"]
+    B --> C["just kidding"]
+    C --> D["just kidding"]
+    D --> E["just kidding"]
+    E --> F{just kidding?}
+    F -->|Yes| G["just kidding"]
+    F -->|No| E
